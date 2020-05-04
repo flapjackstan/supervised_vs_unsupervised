@@ -1,0 +1,19 @@
+burger:
+  - beef
+  - patty
+  - american
+  - bun
+  - double
+  - slider
+  - lettuce
+  - tomato
+  
+pizza:
+  - specialty
+  - mozzarella
+  - crust
+  - red
+  - tomato  
+  - sauce
+  - pan
+  - pepperoni
